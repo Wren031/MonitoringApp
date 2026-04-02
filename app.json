@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "7elevenApp",
+    "name": "7-Eleven Inventory Pro",
     "slug": "7elevenApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/logo.jpg",
     "scheme": "7elevenapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.wren031.sevenelevenapp"
     },
     "web": {
       "output": "static",
